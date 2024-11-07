@@ -1,11 +1,11 @@
 h1, h2, h3 {
 
-    color: rgb(51, 22, 198);
+    color: rgb(37, 198, 22);
 }
 
 body{
 
-    background-color: beige;
+    background-color: rgb(245, 237, 220);
 }
 
 header{
@@ -15,9 +15,18 @@ header{
 
  *{
     font-family: "Roboto", serif;
-
   }
 
   h1, h2, h3{
     font-family: "Electrolize", sans-serif;
+  }
+
+  .btnArticle{
+    background-color: rgb(205, 71, 50)
+    color white
+  }
+
+  .btnArticle :hover{
+    background-color: blue;
+    color: beige;
   }

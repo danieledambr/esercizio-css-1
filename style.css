@@ -22,11 +22,11 @@ header{
   }
 
   .btnArticle{
-    background-color: rgb(205, 71, 50)
+    background-color: rgb(226, 46, 18)
     color white
   }
 
-  .btnArticle :hover{
-    background-color: blue;
+  .btnArticle:hover{
+    background-color: rgb(33, 229, 85);
     color: beige;
   }
